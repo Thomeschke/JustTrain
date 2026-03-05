@@ -1,1 +1,1 @@
-# SimplyTrain
+# JustTrain
